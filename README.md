@@ -1,2 +1,2 @@
 Informações sobre o projeto.
-TESTE
+Teste para subir alterações pro remoto.
